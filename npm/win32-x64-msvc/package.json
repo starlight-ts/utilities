@@ -1,0 +1,16 @@
+{
+  "name": "utilities-win32-x64-msvc",
+  "os": [
+    "win32"
+  ],
+  "cpu": [
+    "x64"
+  ],
+  "main": "utilities.win32-x64-msvc.node",
+  "files": [
+    "utilities.win32-x64-msvc.node"
+  ],
+  "engines": {
+    "node": ">= 10"
+  }
+}

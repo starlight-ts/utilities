@@ -1,0 +1,16 @@
+{
+  "name": "utilities-linux-x64-gnu",
+  "os": [
+    "linux"
+  ],
+  "cpu": [
+    "x64"
+  ],
+  "main": "utilities.linux-x64-gnu.node",
+  "files": [
+    "utilities.linux-x64-gnu.node"
+  ],
+  "engines": {
+    "node": ">= 10"
+  }
+}
